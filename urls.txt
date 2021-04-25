@@ -1,0 +1,8 @@
+https://financialmodelingprep.com/api/v3/stock/list
+https://financialmodelingprep.com/api/v3/company/profile/
+https://financialmodelingprep.com/api/v3/financials/income-statement/
+https://financialmodelingprep.com/api/v3/financials/cash-flow-statement/
+https://financialmodelingprep.com/api/v3/financials/balance-sheet-statement/
+https://financialmodelingprep.com/api/v3/financial-statement-growth/
+https://financialmodelingprep.com/api/v3/company-key-metrics/
+https://financialmodelingprep.com/api/v3/financial-ratios/
