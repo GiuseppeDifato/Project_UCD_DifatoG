@@ -1,0 +1,60 @@
+Revenue
+Revenue Growth
+Preferred Dividends
+Dividend per Share
+Gross Margin
+EBITDA Margin
+EBIT Margin
+EBITDA
+EBIT
+Total assets
+Retained earnings (deficit)
+Total shareholders equity
+Other Assets
+Other Liabilities
+Investment purchases and sales
+Issuance (buybacks) of shares
+priceToSalesRatio
+priceEarningsRatio
+priceToOperatingCashFlowsRatio
+priceFairValue
+netProfitMargin
+returnOnEquity
+nIperEBT
+eBTperEBIT
+fixedAssetTurnover
+currentRatio
+debtRatio
+totalDebtToCapitalization
+cashPerShare
+payoutRatio
+operatingCashFlowSalesRatio
+capitalExpenditureCoverageRatios
+dividendPayoutRatio
+Revenue per Share
+Net Income per Share
+Operating Cash Flow per Share
+Free Cash Flow per Share
+Market Cap
+PE ratio
+POCF ratio
+PFCF ratio
+PTB ratio
+Enterprise Value over EBITDA
+EV to Free cash flow
+Earnings Yield
+Net Debt to EBITDA
+Interest Coverage
+Income Quality
+Dividend Yield
+Payout Ratio
+R&D to Revenue
+Receivables Turnover
+Gross Profit Growth
+EPS Growth
+Weighted Average Shares Diluted Growth
+Dividends per Share Growth
+Operating Cash Flow growth
+10Y Net Income Growth (per Share)
+3Y Shareholders Equity Growth (per Share)
+Receivables growth
